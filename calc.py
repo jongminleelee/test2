@@ -3,3 +3,6 @@ def add(a,b):
 
 def sub(a,b):
 	pass
+
+def multiply(a,b):
+	pass
